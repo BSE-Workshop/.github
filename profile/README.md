@@ -11,7 +11,7 @@ These instructions will guide you to understand how will work and the tools we m
 Requirements for the software and other tools we will use, depending on your operating system: 
 - [Visual Studio Code](https://code.visualstudio.com/Download)
 - [Pycharm Community Edition](https://www.jetbrains.com/pycharm/download/)
-- [MySQL Workbench](https://www.example.com)
+- [MySQL Workbench]([https://www.example.com](https://dev.mysql.com/downloads/workbench/))
 - [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=us)
 - [WSL (Ubuntu 20.04 LTS)](https://apps.microsoft.com/store/detail/ubuntu-20045-lts/9MTTCL66CPXJ?hl=en-us&gl=us)
 
