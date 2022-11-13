@@ -11,6 +11,8 @@ These instructions will guide you to understand how will work and the tools we m
 Requirements for the software we will use, depending on your operating system: 
 - [Visual Studio Code](https://code.visualstudio.com/Download)
 - [Pycharm Community Edition](https://www.jetbrains.com/pycharm/download/)
+- [Postman](https://www.postman.com/downloads/)
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=us)
 - [WSL (Ubuntu 20.04 LTS)](https://apps.microsoft.com/store/detail/ubuntu-20045-lts/9MTTCL66CPXJ?hl=en-us&gl=us)
@@ -20,6 +22,7 @@ Requirements for other tools:
 - A pen/pencil ✏🖊
 - Your laptop 💻
 - Your laptop charger 🔋🔌 (including charger adapter if needed)
+- Your headphones 🎧
 
 ### Contributing in any repo
 - create a branch from the `main` branch and push your commits when ready
